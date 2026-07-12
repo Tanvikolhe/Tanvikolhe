@@ -55,7 +55,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tan
 <div align="center">
 
 <img
-src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tanvikolhe&layout=compact&theme=github_dark&hide_border=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvikolhe&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
 
