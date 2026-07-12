@@ -14,7 +14,7 @@ Building scalable applications • Learning every day • Passionate about Softw
 
 # 💻 Languages & Tools
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,maven,mongodb,mysql,django,fastapi,github,git,postman,anaconda,aws,docker,vscode&perline=10"/>
 
@@ -49,18 +49,4 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Tan
 </table>
 
 ---
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvikolhe&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 
