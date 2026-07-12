@@ -10,11 +10,25 @@
 <img src="https://skillicons.dev/icons?i=cpp,c,java,py,html,css,js,bootstrap,maven,mongodb,mysql,webstorm,django,fastapi,github,postman,anaconda,aws,docker" />
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,py,html,css,js,bootstrap,maven,mongodb,mysql,webstorm,django,fastapi,github,postman,anaconda,aws,docker&perline=10" />
-  </a>
-</p>
+<table>
+<tr>
+<td>
+
+### 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</td>
+
+<td>
+
+### 📊 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvikolhe&theme=github&hide_border=true)]
