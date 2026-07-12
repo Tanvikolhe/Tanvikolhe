@@ -16,7 +16,7 @@
 
 ### 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Tanvikolhe&theme=github-dark-blue&hide_border=true"/>
 
 </td>
 
@@ -24,11 +24,13 @@
 
 ### 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvikolhe&layout=compact&theme=github_dark&hide_border=true"/>
 
 </td>
 </tr>
 </table>
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvikolhe&theme=github&hide_border=true"/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvikolhe&theme=github&hide_border=true)]
