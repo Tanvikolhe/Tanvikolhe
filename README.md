@@ -16,7 +16,7 @@ Building scalable applications • Learning every day • Passionate about Softw
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,maven,mongodb,mysql,django,fastapi,github,git,postman,anaconda,aws,docker,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,maven,mongodb,mysql,django,fastapi,github,git,postman,anaconda,aws,docker,vscode"/>
 
 </div>
 
