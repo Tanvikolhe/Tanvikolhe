@@ -41,7 +41,7 @@ src="https://streak-stats.demolab.com?user=Tanvikolhe&theme=github-dark-blue&hid
 ### 📈 Most Used Languages
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvikolhe&layout=compact&theme=github_dark&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanvikolhe&layout=compact"/>
 
 </td>
 
