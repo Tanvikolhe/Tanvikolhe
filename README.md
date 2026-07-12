@@ -5,4 +5,4 @@
 </p>
 
 
-[![Tanvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvikolhe)]
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvikolhe&theme=github)]
