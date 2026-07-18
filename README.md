@@ -32,7 +32,7 @@ Building scalable applications • Learning every day • Passionate about Softw
 ### 🔥 GitHub Streak
 
 <img height="180em"
-src="https://streak-stats.demolab.com?user=Tanvikolhe&theme=github-dark-blue&hide_border=true"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvikolhe&theme=github-dark-blue&hide_border=true"/>
 
 </td>
 
